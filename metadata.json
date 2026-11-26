@@ -1,0 +1,6 @@
+{
+  "name": "Case History Studio",
+  "description": "Applicazione web per la gestione, archiviazione e vetrina di Case History e Case Study basata sul plugin WordPress Case History (RSW Studio).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

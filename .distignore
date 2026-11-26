@@ -1,0 +1,31 @@
+# Version control & CI/CD
+.git
+.github
+.gitignore
+.distignore
+.svnignore
+
+# Environment & secrets
+.env
+.env.*
+
+# Web app source & build artifacts (non-plugin files)
+node_modules
+data
+dist
+public
+src
+index.html
+metadata.json
+package.json
+package-lock.json
+bun.lock
+server.ts
+tsconfig.json
+vite.config.ts
+
+# OS & temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.zip
